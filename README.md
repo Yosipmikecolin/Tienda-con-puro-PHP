@@ -7,7 +7,8 @@ Quería saber si era posible diseñar una tienda online sin utilizar librerías 
 
 ## Vista previa de los productos
 
-[](carrito.png)
+
+![]({{carrito.png}}/)
 
 
 
