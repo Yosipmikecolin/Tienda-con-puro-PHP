@@ -1,0 +1,75 @@
+body{
+
+
+background-color: rgb(255, 255, 255);
+font-family: 'Poppins', sans-serif;
+
+}
+
+
+svg{
+
+    color: rgb(97, 97, 97);
+}
+
+svg:hover{
+
+
+    color: #0779e4;
+}
+
+
+
+span{
+
+    position: absolute;
+    right: 25px;
+   
+    
+}
+
+
+h3,h1{
+
+
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+#btn-cantidad{
+
+    background-color: transparent;
+}
+
+#btn-cantidad:focus{
+
+    outline: none;
+
+}
+
+
+
+
+.cesta{
+
+
+
+    color: cornsilk;
+    float: right;
+    
+   
+    
+}
+
+
+.cesta:hover{
+   color: cornsilk;
+
+}
+
+svg{
+
+    color: tomato;
+}
+
+
